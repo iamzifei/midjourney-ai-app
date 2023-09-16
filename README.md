@@ -21,7 +21,7 @@ A web app for midjourney AI art generation, with user management, online payment
 
 ## Todo
 
-### Everything from the general version, plus
+### Everything from the community version, plus
 
 - [ ] user management and auth
 - [ ] UI for config Midjourney API keys
