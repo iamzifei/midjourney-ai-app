@@ -1,6 +1,6 @@
-# Midjourney AI APP
+# Midjourney AI APP Pro Version
 
-A open source web app for midjourney AI art generation.
+A web app for midjourney AI art generation, with user management, online payment, fast mode, free of setup/config, and more
 
 ## Keywords
 
@@ -21,13 +21,12 @@ A open source web app for midjourney AI art generation.
 
 ## Todo
 
-### General
+### Everything from the general version, plus
 
-- [ ] midjourney web UI for the most general image actions, such as Imagine, Vary, Reroll
-- [ ] midjourney web UI for the advanced actions, such as Zoom, Pan, In-Painting, Blend, etc
-- [ ] midjourney web UI for the advanced actions, such as Partial Redraw, Settings, Describe, Seed, etc
-- [ ] better UI/UX for non-tech background users
-- [ ] multi-language support
+- [ ] user management and auth
+- [ ] UI for config Midjourney API keys
+- [ ] capability of payment gateway integration
+- [ ] token management
 
 ## How to use
 
