@@ -200,7 +200,7 @@ export default function StepPrompt({ session }: { session: any }) {
       await handleButton(upscale || "U1")
       setUpscaling(false)
     } else {
-      saveAs(aiImage, "image.webp")
+      aiImage && saveAs(aiImage, "image.webp")
     }
     if (error) {
       setUpscaling(false)
